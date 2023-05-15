@@ -1,0 +1,75 @@
+body{
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   background-color: rgb(251,227,179);
+   margin-top: 0%;
+}
+.titulo {
+   background-color: rgb(251,227,179);
+   color: rgba(119,206,102,255);
+   margin-left: 150px;
+   margin-right: 150px;
+   text-align: center;
+   /*text-align: center;*/
+}
+.titulodos {
+    background-color: rgb(251,227,179);
+    color: rgba(119,206,102,255);
+    margin-left: 150px;
+    margin-right: 150px;
+    text-align: center;
+    /*text-align: center;*/
+ }
+ .amigospeludos {
+    background-color: rgb(251,227,179);
+    color:black;
+    margin-left: 150px;
+    margin-right: 150px;
+    text-align: center;
+    /*text-align: center;*/
+ }
+.peritouno {
+    background-color: rgb(251,227,179);
+    color: rgba(119,206,102,255);
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.cachorros {
+    background-color: rgb(251,227,179);
+    color: rgba(119,206,102,255);
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.center {
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+  }
+.superdatos{
+   flex-direction:row;
+   width: 500px;
+   margin: 0;
+
+.datosdel {
+   text-align: center;
+   margin:0%;
+   border: 3px solid green
+
+}
+.direccion {
+   text-align:center;
+   margin: auto;
+   border: 3px solid rgb(121, 180, 224)
+}
+}
+.mascota {
+   text-align: center;
+   margin: auto;
+   border: 3px solid rgb(112, 68, 179)
+}
+.contacto {
+   text-align: center;
+   margin: auto;
+   border: 3px solid rgb(40, 227, 131)
+
+}
